@@ -31,3 +31,4 @@ jupyter notebook Stock_analyze.ipynb
 - Tickers are set to `UBI.PA` (Ubisoft) and `7974.T` (Nintendo).
 - Date range defaults to 2018-07-20 through 2025-12-31.
 
+Project url: https://roadmap.sh/projects/stock-price-time-series
